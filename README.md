@@ -14,3 +14,8 @@ Use program to exactly locate file:
 ![](https://user-images.githubusercontent.com/10871454/115100542-538ae400-9f0b-11eb-90d7-435d5a617762.png)
 
 
+I added in some visualizations to allow you to watch the programs progress--it's multithreaded.
+BLUE = Scanned.
+YELLOW = Scanning.
+RED = This file has been modified since the last scan.
+BLACK = Unscanned.
